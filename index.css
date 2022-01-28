@@ -244,11 +244,11 @@ header{
 }
 @media only screen and (min-width:1040px) and (max-width:1250px){
     .para_1{
-        font-size:18px;
+        font-size:16px;
         padding:0px
     }
     .paragraph{
-        font-size:18px;
+        font-size:14px;
         padding:0px;
     }
 }
