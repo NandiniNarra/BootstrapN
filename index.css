@@ -244,96 +244,14 @@ header{
 }
 @media only screen and (min-width:1040px) and (max-width:1250px){
     .para_1{
-        font-size:20px;
+        font-size:18px;
         padding:0px
     }
     .paragraph{
-        font-size:20px;
+        font-size:18px;
         padding:0px;
     }
 }
-/*.footer-section{
-    background-color:#14202E;
-    background-size:cover;
-    padding-top:53.5px;
-    width:100%;
-}
-.infosys-image-section{
-    display:flex;
-    align-items:center;
-}
-.caption{
-    color:#C9C9C9;
-    font-size:20px;
-    margin-left:18px;
-}
- .verticle-line{
-     width:1px;
-    height:200px;
-    background-color:gray;
-}
-hr {
-    background: #857f7f;
-}
-
-.footer-section-title{
-    font-family:Poppins-medium;
-    font-size:20px;
-    color:#8695A8;
-}
-.links{
-    list-style-type:none;
-}
-.link{
-    color:#8695A8;
-    font-size:16px;
-    font-family:Poppins-light;
-    text-decoration:underline;
-}
-.link1{
-    color:#8695A8;
-    font-size:16px;
-    font-family:Poppins-light;
-    text-decoration:none;
-}
-.email-container{
-    position:relative;
-}
-.input-mail{
-    border:none;
-    height:40px;
-    width:285px;
-    padding:15px 12px;
-
-}
-.send-button{
-    position:absolute;
-    top:0;
-    bottom:0;
-    right:0;
-    background:#14202E;
-    color:white;
-    padding:15px 30px;
-    border:1px solid #8695A8;
-}
-
-.icons-container a{
-    font-size:36px;
-    text-decoration:none;
-}
-.icons-container a + a{
-    margin-left:22px;
-}
-.line{
-    border:0.5px solid #8695A8;
-}
-.copyright{
-    font-size:16px;
-    color:#8695A8;
-    font-family:Poppins-light;
-    text-align: center;
-    letter-spacing:30;
-}*/
 .icon-facebook:before{
     content: "\e90b";
     color: #8695a8;
