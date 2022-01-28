@@ -242,16 +242,6 @@ header{
         padding: 0px;
     }
 }
-@media only screen and (min-width:1040px) and (max-width:1250px){
-    .para_1{
-        font-size:16px;
-        padding:0px
-    }
-    .paragraph{
-        font-size:14px;
-        padding:0px;
-    }
-}
 .icon-facebook:before{
     content: "\e90b";
     color: #8695a8;
